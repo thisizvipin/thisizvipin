@@ -25,4 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisizvipin&layout=compact" alt="thisizvipin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisizvipin&show_icons=true" alt="thisizvipin" /></p>
+<p>&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisizvipin&layout=compact)](https://github.com/thisizvipin/github-readme-stats)
+
