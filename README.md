@@ -25,4 +25,9 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisizvipin&layout=compact" alt="thisizvipin" /></p>
 
-<p>&nbsp;
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisizvipin&show_icons=true" alt="thisizvipin" />
+
+</details>
