@@ -31,19 +31,15 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-
-
-
-
-
 <details>
   <summary>:zap: Top Languages</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisizvipin&layout=compact" alt="thisizvipin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisizvipin&layout=compact" alt="thisizvipin" />
+  
 </details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=thisizvipin&show_icons=true" alt="thisizvipin" />
 
 </details>
