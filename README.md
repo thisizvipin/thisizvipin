@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Vipin Sharma</h1>
 <h3>A passionate developer from India</h3>
-
+![Twitter Follow](https://img.shields.io/twitter/follow/thisizvipin?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 - 🌱 I’m currently learning **Modern JavaScript (from Novice to Ninja)**
 
