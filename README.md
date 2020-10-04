@@ -1,10 +1,10 @@
-<h1>Hi 👋, I'm Vipin Sharma</h1>
-<h3>A passionate developer from India</h3>
-<img src="https://img.shields.io/twitter/follow/thisizvipin?color=1DA1F2&logo=Twitter&style=for-the-badge" />
+# Hi 👋, I'm Vipin Sharma
+### a CSE student from India. I love gaming, UI/UX designing and Front-end development 🤩.
+![Twitter](https://img.shields.io/twitter/follow/thisizvipin?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 - 🌱 I’m currently learning **Modern JavaScript (from Novice to Ninja)**
 
-- 👨‍💻 All of my projects are available at [https://thisizvipin-dev.netlify.app/portfolio.html](https://thisizvipin-dev.netlify.app/portfolio.html)
+- 👨‍💻 All of my projects are available at [https://thisizvipin-dev.netlify.app/portfolio.html](https://thisizvipin-dev.netlify.app/)
 
 - 💬 Ask me about **JavaScript, CSS**
 
@@ -39,9 +39,7 @@
   
 </details>
 
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=thisizvipin&show_icons=true" alt="thisizvipin" />
-
 </details>
