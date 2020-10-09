@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vipin Sharma
 ### a CSE student from India. I love gaming, UI/UX designing and Front-end development 🤩.
-![Twitter](https://img.shields.io/twitter/follow/thisizvipin?color=1DA1F2&logo=Twitter&style=for-the-badge)
+[<img src="https://img.shields.io/badge/@thisizvipin%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/thisizvipin)
 
 - 🌱 I’m currently learning **Modern JavaScript (from Novice to Ninja)**
 
@@ -11,12 +11,6 @@
 - 📫 How to reach me **thisizvipin@gmail.com**
 
 - ⚡ Fun fact **NaN IS A NUMBER**
-
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/thisizvipin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisizvipin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thisizvipin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thisizvipin" height="30" width="40" /></a>
-<a href="https://instagram.com/thisizvipin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thisizvipin" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
