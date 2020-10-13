@@ -1,5 +1,7 @@
 # Hi 👋, I'm Vipin Sharma
 ### a CSE student from India. I love gaming, UI/UX designing and Front-end development 🤩.
+![](https://komarev.com/ghpvc/?username=thisizvipin&style=flat-square)
+
 [<img src="https://img.shields.io/badge/@thisizvipin%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/thisizvipin)
 [<img src="https://img.shields.io/badge/thisizvipin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/thisizvipin)
 [<img src="https://img.shields.io/badge/thisizvipin%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/thisizvipin)
