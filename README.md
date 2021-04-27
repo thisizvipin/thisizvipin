@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-
-<h1 align="center">I'm Vipin Sharma</h1>
+<h1 align="center">Hi 👋, I'm Vipin Sharma</h1>
 <h3 align="center">A passionate frontend react developer from India</h3>
 
 <div align="center">
