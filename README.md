@@ -41,6 +41,4 @@
 
 </p>
 
-<div align="center">
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thisizvipin)  
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisizvipin&" alt="thisizvipin" /></p>
