@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vipin Sharma</h1>
 <h3 align="center">A passionate frontend react developer from India</h3>
 
-<div align="center">
-[<img src="https://img.shields.io/badge/@thisizvipin%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/thisizvipin)
-[<img src="https://img.shields.io/badge/thisizvipin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/thisizvipin)
-[<img src="https://img.shields.io/badge/thisizvipin%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/thisizvipin)
- </div>
+[<img align="center" src="https://img.shields.io/badge/@thisizvipin%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/thisizvipin)
+[<img align="center" src="https://img.shields.io/badge/thisizvipin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/thisizvipin)
+[<img align="center" src="https://img.shields.io/badge/thisizvipin%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/thisizvipin)
 
 - 🔭 I’m currently working on [spotify-clone](https://github.com/thisizvipin/spotify-clone)
 
