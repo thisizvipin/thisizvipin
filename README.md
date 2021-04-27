@@ -1,24 +1,32 @@
-# Hi 👋, I'm Vipin Sharma
-### a CSE student from India. I love gaming, UI/UX designing and Front-end development 🤩.
-![](https://komarev.com/ghpvc/?username=thisizvipin&style=flat-square)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
+<h1 align="center">I'm Vipin Sharma</h1>
+<h3 align="center">A passionate frontend react developer from India</h3>
+
+<div align="center">
 [<img src="https://img.shields.io/badge/@thisizvipin%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/thisizvipin)
 [<img src="https://img.shields.io/badge/thisizvipin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/thisizvipin)
 [<img src="https://img.shields.io/badge/thisizvipin%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/thisizvipin)
+ </div>
 
-- 🌱 I’m currently learning **Modern JavaScript (from Novice to Ninja)**
+- 🔭 I’m currently working on [spotify-clone](https://github.com/thisizvipin/spotify-clone)
 
-- 👨‍💻 All of my projects are available at [https://thisizvipin-dev.netlify.app/portfolio.html](https://thisizvipin-dev.netlify.app/)
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, CSS**
+- 👨‍💻 All of my projects are available at [thisizvipin.com/projects](https://vipin-portfolio.netlify.app/#portfolio)
+
+- 💬 Ask me about **JavaScript, UI/UX**
 
 - 📫 How to reach me **thisizvipin@gmail.com**
 
+- 📄 Know about my experiences [Download CV](https://vipin-portfolio.netlify.app/assets/cv.pdf)
+
 - ⚡ Fun fact **NaN IS A NUMBER**
 
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -30,14 +38,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-GIt-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GiHub](https://img.shields.io/badge/-GItHUb-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-</p>
-<details>
-  <summary>:zap: Top Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisizvipin&layout=compact" alt="thisizvipin" />
-  
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thisizvipin&show_icons=true" alt="thisizvipin" />
-</details>
+</p>
+
+<div align="center">
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thisizvipin)  
+</div>
